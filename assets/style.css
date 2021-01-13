@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+
+.items {
+    background-color: orange;
+    margin-top: 16px;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    line-height: 400px;
+    min-height: 380px;    
+}
+
+h1 {
+    color: #fff;
+    line-height: 260px;
+    margin: 0;
+}
+
+.logo {
+    padding-top: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:top center;
+}
